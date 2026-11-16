@@ -1,4 +1,8 @@
+Link bài
+https://snack.expo.dev/@trangiabao/learningapp
+
 App.js
+
 Nội dung và vai trò
 - Đây là tệp chính của ứng dụng LearningApp, có nhiệm vụ kết hợp và hiển thị các component đã được xây dựng gồm Header, StatCard, CourseCard và BottomMenu.
 - Tệp này tổ chức bố cục tổng thể của trang Home, hiển thị phần thông tin sinh viên, thống kê học tập, danh sách các môn học và thanh menu ở cuối màn hình.
@@ -110,6 +114,7 @@ const styles = StyleSheet.create({
 });
 ```
 Header.js
+
 Nội dung và vai trò:
 -Tệp Header.js có nhiệm vụ xây dựng phần đầu của trang Home. 
 -Component này hiển thị lời chào người dùng, tên sinh viên, mã lớp và avatar.
@@ -190,6 +195,7 @@ const styles = StyleSheet.create({
 });
 ```
 StatCard.js
+
 Nội dung và vai trò:
 - Tệp StatCard.js có nhiệm vụ tạo các thẻ thống kê thông tin học tập.
 - Component hiển thị số liệu và tiêu đề tương ứng, chẳng hạn như số lượng khóa học, số khóa học đang học và phần trăm tiến độ.
@@ -238,6 +244,7 @@ const styles = StyleSheet.create({
 });
 ```
 CourseCard.js
+
 Nội dung và vai trò:
 - Tệp CourseCard.js có nhiệm vụ hiển thị thông tin của từng môn học trong ứng dụng.
 - Mỗi CourseCard gồm biểu tượng môn học, tên môn học, nội dung hoặc công nghệ học tập và thanh tiến độ hoàn thành.
@@ -361,6 +368,7 @@ const styles = StyleSheet.create({
 });
 ```
 BottomMenu.js
+
 Nội dung và vai trò:
 - Tệp BottomMenu.js có nhiệm vụ tạo thanh menu giả lập ở cuối màn hình ứng dụng.
 - Thanh menu gồm ba mục Home, Courses và Profile cùng với các biểu tượng tương ứng.
@@ -437,3 +445,6 @@ const styles = StyleSheet.create({
   },
 });
 ```
+Kết quả hiển thị
+
+<img width="327" height="610" alt="image" src="https://github.com/user-attachments/assets/eb575314-0834-439b-919b-a139d5f7410a" />
