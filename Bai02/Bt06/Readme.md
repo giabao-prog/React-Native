@@ -1,4 +1,4 @@
-LINK BAI: https://snack.expo.dev/@trangiabao/hazardous-blue-sandwich
+LINK BAI: https://snack.expo.dev/@trangiabao/scheduleapp
 
 App.js
 
